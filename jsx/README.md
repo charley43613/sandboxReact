@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Backend Config Required
-Todo:Provide appropriate public github url next commit
+https://github.com/charley43613/springMsaMongo.git with appropriate java 1.8 JRE
